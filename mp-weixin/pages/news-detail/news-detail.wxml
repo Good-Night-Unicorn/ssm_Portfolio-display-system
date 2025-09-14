@@ -1,0 +1,1 @@
+<view class="data-v-65a2985e"><view class="title data-v-65a2985e">{{''+detail.title+''}}</view><view class="content data-v-65a2985e"><rich-text nodes="{{detail.content}}" class="data-v-65a2985e"></rich-text></view></view>
